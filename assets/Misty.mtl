@@ -1,3 +1,4 @@
+
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
 # File Created: 03.08.2016 22:27:57
 
@@ -12,8 +13,8 @@ newmtl Material__25
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka textures\_-gc_zom_player_farmgirl_c.png
-	map_Kd textures\_-gc_zom_player_farmgirl_c.png
+	map_Ka textures/_-gc_zom_player_farmgirl_c.png
+	map_Kd textures/_-gc_zom_player_farmgirl_c.png
 
 newmtl Material__26
 	Ns 10.0000
@@ -26,8 +27,8 @@ newmtl Material__26
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka textures\_-gc_zom_player_farmgirl_gear_c.png
-	map_Kd textures\_-gc_zom_player_farmgirl_gear_c.png
+	map_Ka textures/_-gc_zom_player_farmgirl_gear_c.png
+	map_Kd textures/_-gc_zom_player_farmgirl_gear_c.png
 
 newmtl Material__33
 	Ns 10.0000
@@ -40,8 +41,8 @@ newmtl Material__33
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka textures\_-gc_zom_player_farmgirl_glove_c.png
-	map_Kd textures\_-gc_zom_player_farmgirl_glove_c.png
+	map_Ka textures/_-gc_zom_player_farmgirl_glove_c.png
+	map_Kd textures/_-gc_zom_player_farmgirl_glove_c.png
 
 newmtl Material__31
 	Ns 10.0000
@@ -54,8 +55,8 @@ newmtl Material__31
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka textures\_-gc_zom_player_farmgirl_arm_c.png
-	map_Kd textures\_-gc_zom_player_farmgirl_arm_c.png
+	map_Ka textures/_-gc_zom_player_farmgirl_arm_c.png
+	map_Kd textures/_-gc_zom_player_farmgirl_arm_c.png
 
 newmtl mtl_c_zom_player_farmgirl_gear
 	Ns 1.0000
@@ -68,8 +69,8 @@ newmtl mtl_c_zom_player_farmgirl_gear
 	Kd 1.0000 1.0000 1.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka textures\_-gc_zom_player_farmgirl_gear_c.png
-	map_Kd textures\_-gc_zom_player_farmgirl_gear_c.png
+	map_Ka textures/_-gc_zom_player_farmgirl_gear_c.png
+	map_Kd textures/_-gc_zom_player_farmgirl_gear_c.png
 
 newmtl Material__35
 	Ns 10.0000
@@ -82,8 +83,8 @@ newmtl Material__35
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka textures\_-gc_zom_player_farmgirl_gear_c.png
-	map_Kd textures\_-gc_zom_player_farmgirl_gear_c.png
+	map_Ka textures/_-gc_zom_player_farmgirl_gear_c.png
+	map_Kd textures/_-gc_zom_player_farmgirl_gear_c.png
 
 newmtl mtl_c_gen_insidemouth
 	Ns 1.0000
@@ -96,8 +97,8 @@ newmtl mtl_c_gen_insidemouth
 	Kd 1.0000 1.0000 1.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka textures\_-gc_zom_player_farmgirl_arm_c.png
-	map_Kd textures\_-gc_zom_player_farmgirl_arm_c.png
+	map_Ka textures/_-gc_zom_player_farmgirl_arm_c.png
+	map_Kd textures/_-gc_zom_player_farmgirl_arm_c.png
 
 newmtl Material__28
 	Ns 10.0000
@@ -110,8 +111,8 @@ newmtl Material__28
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka textures\_-gc_zom_player_farmgirl_head_c.png
-	map_Kd textures\_-gc_zom_player_farmgirl_head_c.png
+	map_Ka textures/_-gc_zom_player_farmgirl_head_c.png
+	map_Kd textures/_-gc_zom_player_farmgirl_head_c.png
 
 newmtl Material__45
 	Ns 10.0000
@@ -124,8 +125,8 @@ newmtl Material__45
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka textures\_-gc_zom_player_farmgirl_head_c.png
-	map_Kd textures\_-gc_zom_player_farmgirl_head_c.png
+	map_Ka textures/_-gc_zom_player_farmgirl_head_c.png
+	map_Kd textures/_-gc_zom_player_farmgirl_head_c.png
 
 newmtl Material__27
 	Ns 10.0000
@@ -138,8 +139,8 @@ newmtl Material__27
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka textures\_-gc_zom_player_farmgirl_hair_c.png
-	map_Kd textures\_-gc_zom_player_farmgirl_hair_c.png
+	map_Ka textures/_-gc_zom_player_farmgirl_hair_c.png
+	map_Kd textures/_-gc_zom_player_farmgirl_hair_c.png
 
 newmtl Material__32
 	Ns 10.0000
@@ -152,8 +153,8 @@ newmtl Material__32
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka textures\_-gc_zom_player_farmgirl_c.png
-	map_Kd textures\_-gc_zom_player_farmgirl_c.png
+	map_Ka textures/_-gc_zom_player_farmgirl_c.png
+	map_Kd textures/_-gc_zom_player_farmgirl_c.png
 
 newmtl Material__36
 	Ns 10.0000
@@ -166,5 +167,5 @@ newmtl Material__36
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka textures\_-gc_gen_eye_brown_c.png
-	map_Kd textures\_-gc_gen_eye_brown_c.png
+	map_Ka textures/_-gc_gen_eye_brown_c.png
+	map_Kd textures/_-gc_gen_eye_brown_c.png
